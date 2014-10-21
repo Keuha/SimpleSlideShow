@@ -48,7 +48,7 @@
     [self feedView:self.SmallScrollView];
     
     //Uncomment this to create an automatic slide in scrollView
-    [NSTimer scheduledTimerWithTimeInterval:6.0 target:self selector:@selector(onTimer) userInfo:nil repeats:YES];
+    //[NSTimer scheduledTimerWithTimeInterval:6.0 target:self selector:@selector(onTimer) userInfo:nil repeats:YES];
     
 }
 
